@@ -1,0 +1,8 @@
+datascience-notebook:
+  build: .
+  ports:
+    - '10020:8888'
+  volumes:
+    - '.:/work'
+  container_name: 'paulo-chama-case' 
+  working_dir:  '/work'
