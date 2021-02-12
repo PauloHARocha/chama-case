@@ -1,15 +1,16 @@
 # Chama Data Science Case
 
-## Case developed as a test. The goal was to answer proposed questions.
+Case developed as a test.
 
 ### Documents
 
 - `Chama Case.ipynb` file contains the case, all the questions, answers and visuals.
-- `Doc` file contains the questions and answers of the form.
+- `Questionário Cientista de dados.docx` file contains the questions and answers of the form.
 
 ### Requirements to execute locally
 
 - Make sure docker-compose is running in your machine https://docs.docker.com/compose/install/
+- Create a folder called `datasets/` and add the required datasets for the case
 
 ### Locally execution
 
